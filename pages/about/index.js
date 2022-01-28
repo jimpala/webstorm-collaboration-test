@@ -6,4 +6,4 @@ const About = (props) => (
   </main>
 );
 
-export default RedBox;
+export default About;
